@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyMusicPlayer</string>
+    <string name="musicEx">不要说话</string>
+    <string name="nameEx">陈奕迅</string>
+    <string name="local_music">本地音乐</string>
+    <string name="recent_music">最近播放</string>
+    <string name="dld">下载管理</string>
+    <string name="artist">我的歌手</string>
+    <string name="night">夜间模式</string>
+    <string name="skin">主题换肤</string>
+    <string name="time">定时关闭音乐</string>
+    <string name="exit">退出</string>
+    <string name="search_hint">请输入要搜索的音乐、歌手</string>
+    <string name="recent_play">最近播放</string>
+    <string name="app_real_name">爱音乐</string>
+</resources>
