@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    >
+
+    <LinearLayout
+        android:id="@+id/toolBar"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#d20000"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:scaleType="centerInside"
+            android:id="@+id/back"
+            android:layout_width="0dp"
+            android:layout_height="35dp"
+            android:layout_gravity="center_vertical"
+            android:layout_margin="4dp"
+            android:layout_weight="1"
+            android:src="@drawable/actionbar_back" />
+
+       <TextView
+           android:id="@+id/title"
+           android:layout_width="0dp"
+           android:layout_height="match_parent"
+           android:layout_weight="6"
+           android:text="@string/recent_play"
+           android:textColor="#ffffff"
+           android:textSize="20sp"
+           android:gravity="center_vertical"
+           />
+
+
+    </LinearLayout>
+
+    <ListView
+        android:layout_above="@+id/bottom1"
+        android:layout_below="@+id/toolBar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/recent_list"
+        >
+
+    </ListView>
+
+
+    <include
+        android:id="@+id/bottom1"
+        layout="@layout/bottom_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true" />
+
+
+</RelativeLayout>
