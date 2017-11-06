@@ -1,0 +1,7 @@
+#Mon May 22 15:41:15 CST 2017
+base.0=D\:\\android\\MyMusicPlayer\\musicplayer\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_15c8c9016d74bd0de524f4727a1f355fe7ce9420
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\android\\MyMusicPlayer\\musicplayer\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1ed3d8f2b10ac7b0b56d44600763c25c86d9a720\\classes.dex
+base.1=D\:\\android\\MyMusicPlayer\\musicplayer\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1ed3d8f2b10ac7b0b56d44600763c25c86d9a720
+file.0=D\:\\android\\MyMusicPlayer\\musicplayer\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_15c8c9016d74bd0de524f4727a1f355fe7ce9420\\classes.dex
